@@ -1,5 +1,9 @@
 .big-green-text{
-	color: blue;
-	font-size: 20px;
+	color: lightblue;
+	font-size: 40px;
 	font-family: 'Avenir';
+}
+
+body {
+	background-color: #6f6113;
 }
